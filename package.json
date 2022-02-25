@@ -1,5 +1,5 @@
 {
-  "name": "mongoose",
+  "name": "Social_Network_API",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/JeffreyBanh/Social_Network_API/issues"
   },
-  "homepage": "https://github.com/JeffreyBanh/Social_Network_API#readme"
+  "homepage": "https://github.com/JeffreyBanh/Social_Network_API#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "moment": "^2.29.1",
+    "mongoose": "^6.2.3"
+  }
 }
